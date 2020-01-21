@@ -22,13 +22,13 @@ Activation could be performed locally, with a potential extension to remote work
 
 
 ## to get device activation status
-safekey activation status activation.pem
+safekey activation status `activation.pem`
 
 ## to activate device, to support Custom Storage features 
-safekey activation activate activation.pem
+safekey activation activate `activation.pem`
 
 ## to deactivate device, so it would be limited to SAfeKey FIDO2 features only 
-safekey activation deactivate activation.pem
+safekey activation deactivate `activation.pem`
 
 ## Custom Storage tests
 
