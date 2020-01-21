@@ -1,5 +1,5 @@
 # SafeKey Testing tools
-most of these features are going to be included in further releases of SafeKey Desktop.
+Most of these features are going to be included in further releases of SafeKey Desktop.
 
 # SafeKey Tool installation
 
