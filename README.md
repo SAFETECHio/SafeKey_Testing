@@ -66,6 +66,7 @@ For touch button status:
 ```shell script
 safekey key status
 ```
+# License
 ```
 Copyright 2019 SoloKeys Developers
 Copyright 2020 SAfeTech BVBA
