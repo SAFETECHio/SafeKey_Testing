@@ -27,7 +27,7 @@ safekey activation status `activation.pem`
 ## to activate device, to support Custom Storage features 
 safekey activation activate `activation.pem`
 
-## to deactivate device, so it would be limited to SAfeKey FIDO2 features only 
+## to deactivate device, so it would be limited to SafeKey FIDO2 features only 
 safekey activation deactivate `activation.pem`
 
 ## Custom Storage tests
